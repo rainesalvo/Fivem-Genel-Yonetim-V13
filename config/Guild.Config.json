@@ -1,0 +1,57 @@
+{
+  "token": "tokengireşşek",
+  "clientId": "1302681567864557596",
+  "guildId": ["id1","id2"],
+  "mongoURI": "mongodb://localhost:27017", 
+  "prefix": ".",
+  "status": "idle",
+  "activity": {
+    "name": "💜 ʀᴀɪɴᴇsᴀʟᴠᴏ",
+    "type": "PLAYING"
+  },
+
+  "botdeveloperrol": "1322634040540663847",
+
+  "ticketyetkili": "1326281642611970113",
+  "banyetkili": "1326281597569208392",
+  "muteyetkili": "1326281642611970113",
+  "staffYetkisi": "1326281642611970113",
+  "rejectLogChannelId": "1342595023761575996",
+  
+  "servername":"Bast Roleplay",
+  "fivemip": "38.210.79.91",
+  "serverurl": "",
+  "servericon": "https://media.discordapp.net/attachments/1328017084298297437/1338998641494589440/bast.png?ex=67b9a569&is=67b853e9&hm=0068bcf8a52411569f494bc52661014a617df2087b59fa55a4c77eaca0062f97&=&format=webp&quality=lossless&width=676&height=676",
+  "serverbanner": "https://media.discordapp.net/attachments/1328017084298297437/1338998641494589440/bast.png?ex=67b9a569&is=67b853e9&hm=0068bcf8a52411569f494bc52661014a617df2087b59fa55a4c77eaca0062f97&=&format=webp&quality=lossless&width=676&height=676",
+
+  "unregisterRolId": "1326281689130864772",
+  "whitelistRolId": "1326281684408209520",
+  "registerLogChannelId": "1342595612658634903",
+  "hexIdChannelId": "1342595750688722965",
+  "icIsimChannelId": "1326282299758612573",
+
+  "messageLogChannelId": "1342596081220976813",
+  "ticketkanalid": "1326283096361930947",
+  "kurallarkanalid": "1326282259053019156",
+  "ticketkatagori": "1326282014244208751",
+  "ticketLogChannelId": "1342596386847461396",
+  "banLogChannelId": "1342596451645132941",
+  "banKaldırmaLog": "1342596451645132941",
+  "muteLogChannel": "1342596524089020436",
+  "rollogcahnnelid": "1342596578480885821",
+  "ekiplog": "1342596651591663617",
+  "ekipkatagori": "1342596814087393400",
+  "logKategoriAdi": "İllegal Ekipler",
+  "logKanallari": [
+      "ʏᴀsᴀᴋʟᴀᴍᴀ-ʟᴏɢ",
+      "ʏᴀsᴀᴋ-ᴋᴀʟᴅıʀᴍᴀ-ʟᴏɢ",
+      "ᴍᴜᴛᴇ-ʟᴏɢ",
+      "sᴇs-ʟᴏɢ",
+      "ᴍᴇsᴀᴊ-ʟᴏɢ",
+      "ᴋᴀʏıᴛ-ʟᴏɢ",
+      "ʀᴏʟ-ʟᴏɢ",
+      "ᴛıᴄᴋᴇᴛ-ʟᴏɢ",
+      "ᴜʏᴀʀıʟᴀʀ",
+      "ᴇᴋɪᴘ-ʟᴏɢ"
+  ]
+}

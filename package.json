@@ -1,0 +1,20 @@
+{
+  "name": "neura-new",
+  "version": "1.0.0",
+  "main": "raine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rainesalvo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord-api-types": "^0.37.104",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.8.1"
+  }
+}
