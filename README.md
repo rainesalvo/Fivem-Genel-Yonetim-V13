@@ -1,4 +1,4 @@
-# RainE Discord Bot Projesi
+# Raine Fivem Yönetim
 
 ## Proje Hakkında
 Bu proje, Discord sunucuları için geliştirilmiş özel bir moderasyon ve yönetim botudur. Bot, sunucu yönetimi, kullanıcı etkileşimi ve moderasyon işlemleri için tasarlanmıştır.
